@@ -276,7 +276,7 @@ export const legalPages = {
       { t: 'p', text: 'In certain cases, partial refunds may be granted if a portion of the service has already been performed. The refunded amount will be calculated based on the work completed up to the date of the refund request. Administrative or processing fees may be deducted where applicable.' },
       { t: 'hr' },
       { t: 'h4', text: 'Refund Process' },
-      { t: 'p', text: 'To initiate a refund request, please contact our support team through our website at https://securebooksinc.com with your order details.' },
+      { t: 'p', text: 'To initiate a refund request, please contact our support team through our website at https://www.vidalesservice.com/ with your order details.' },
       { t: 'p', text: 'Once your request is reviewed and approved, refunds will be processed within 7–10 business days using the original method of payment. Processing times may vary depending on your financial institution.' },
       { t: 'hr' },
       { t: 'h4', text: 'Non-Refundable Services' },

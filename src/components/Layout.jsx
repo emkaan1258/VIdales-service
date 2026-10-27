@@ -16,7 +16,7 @@ export default function Layout() {
   const { pathname } = useLocation()
   useEffect(() => {
     window.scrollTo({ top: 0, left: 0 })
-    document.title = `${TITLES[pathname] || 'Page not found'} - Secure Books`
+    document.title = `${TITLES[pathname] || 'Page not found'} - Vidales Service`
   }, [pathname])
 
   return (
