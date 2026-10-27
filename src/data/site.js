@@ -2,7 +2,7 @@ export const contact = {
   // email: 'info@securebooksinc.com',
   phone: '(833) 442-6533',
   phoneHref: 'tel:(833) 442-6533',
-  address: '54 State Street, Ste 804 #18180, Albany, NY 12207',
+  address: '1208 ROWELL AVE JOLIET, IL 6043 ',
 }
 
 export const services = [
